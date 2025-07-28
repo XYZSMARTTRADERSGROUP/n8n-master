@@ -161,7 +161,7 @@
     "cohere-ai": "7.10.1",
     "d3-dsv": "2.0.0",
     "epub2": "3.0.2",
-    "form-data": "4.0.0",
+    "form-data": "4.0.4",
     "generate-schema": "2.6.0",
     "html-to-text": "9.0.5",
     "jsdom": "^23.0.1",
