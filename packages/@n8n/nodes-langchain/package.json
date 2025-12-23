@@ -166,7 +166,7 @@
     "html-to-text": "9.0.5",
     "jsdom": "^23.0.1",
     "json-schema-to-zod": "2.1.0",
-    "langchain": "0.2.2",
+    "langchain": "0.3.37",
     "lodash": "4.17.21",
     "mammoth": "1.7.2",
     "n8n-nodes-base": "workspace:*",
