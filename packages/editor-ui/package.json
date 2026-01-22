@@ -64,7 +64,7 @@
     "flatted": "^3.2.4",
     "humanize-duration": "^3.27.2",
     "jsonpath": "^1.1.1",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "luxon": "^3.3.0",
     "n8n-design-system": "workspace:*",
     "n8n-workflow": "workspace:*",
