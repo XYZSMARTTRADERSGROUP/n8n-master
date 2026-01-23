@@ -143,7 +143,7 @@
     "jsonwebtoken": "9.0.2",
     "langchain": "0.2.2",
     "ldapts": "4.2.6",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "luxon": "3.3.0",
     "mysql2": "3.10.0",
     "n8n-core": "workspace:*",
