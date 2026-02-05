@@ -63,7 +63,7 @@
     "file-saver": "^2.0.2",
     "flatted": "^3.2.4",
     "humanize-duration": "^3.27.2",
-    "jsonpath": "^1.1.1",
+    "jsonpath": "^1.2.0",
     "lodash-es": "^4.17.21",
     "luxon": "^3.3.0",
     "n8n-design-system": "workspace:*",
